@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jadwal Praktikum A</title>
+  <link rel="stylesheet" href="../css/jadwal.css">
+</head>
+<body>
+  <div class="dashboard">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <span class="logo-icon">
+            <img src="../asset/education.png" alt="Logo" class="logo-img">
+          </span>
+          <span class="logo-text">Praktika</span>
+        </div>
+      </div>
+      <ul class="menu">
+        <li><a href="../index.html" class="menu-link">Home</a></li>
+        <li>
+          <a href="#" id="pesertaMenu" class="menu-link">Peserta</a>
+          <ul id="kelasDropdown" class="submenu">
+            <li><a href="../peserta/a.html">Kelas A</a></li>
+            <li><a href="../peserta/b.html">Kelas B</a></li>
+            <li><a href="../peserta/c.html">Kelas C</a></li>
+            <li><a href="../peserta/d.html">Kelas D</a></li>
+            <li><a href="../peserta/e.html">Kelas E</a></li>
+            <li><a href="../peserta/f.html">Kelas F</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" id="jadwalMenu" class="menu-link">Jadwal</a>
+          <ul id="jadwalDropdown" class="submenu show">
+            <li><a href="a.html">Praktikum A</a></li>
+            <li><a href="b.html">Praktikum B</a></li>
+            <li><a href="c.html">Praktikum C</a></li>
+            <li><a href="d.html">Praktikum D</a></li>
+            <li><a href="e.html" class="submenu active">Praktikum E</a></li>
+            <li><a href="f.html">Praktikum F</a></li>
+          </ul>
+        </li>
+      </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <h1 class="main-title">Jadwal Praktikum E</h1>
+      <div id="nim-count" style="font-size: 1.2rem; margin-bottom: 1rem;"></div>
+      <!-- Daftar NIM dalam bentuk Cards -->
+      <div class="cards-container" id="cards-container">
+        <!-- Data cards akan diisi oleh JavaScript -->
+      </div>
+    </main>
+  </div>
+
+  <script src="../js/jadwal/e.js"></script>
+</body>
+</html>

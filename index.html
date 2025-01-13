@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheduler</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="dashboard">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <span class="logo-icon">
+            <img src="asset/education.png" alt="Logo" class="logo-img">
+          </span>
+          <span class="logo-text">Praktika</span>
+        </div>
+      </div>
+      <ul class="menu">
+        <li><a href="index.html" class="menu-link">Home</a></li>
+        <li>
+          <a href="#" id="pesertaMenu" class="menu-link">Peserta</a>
+          <ul id="kelasDropdown" class="submenu">
+            <li><a href="peserta/a.html">Kelas A</a></li>
+            <li><a href="peserta/b.html">Kelas B</a></li>
+            <li><a href="peserta/c.html">Kelas C</a></li>
+            <li><a href="peserta/d.html">Kelas D</a></li>
+            <li><a href="peserta/e.html">Kelas E</a></li>
+            <li><a href="peserta/f.html">Kelas F</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" id="jadwalMenu" class="menu-link">Jadwal</a>
+          <ul id="jadwalDropdown" class="submenu">
+            <li><a href="jadwal/a.html">Praktikum A</a></li>
+            <li><a href="jadwal/b.html">Praktikum B</a></li>
+            <li><a href="jadwal/c.html">Praktikum C</a></li>
+            <li><a href="jadwal/d.html">Praktikum D</a></li>
+            <li><a href="jadwal/e.html">Praktikum E</a></li>
+            <li><a href="jadwal/f.html">Praktikum F</a></li>
+          </ul>
+      </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Header -->
+      <h1 class="main-title">HOME</h1>
+
+      <!-- Info Cards -->
+      <div class="info-cards">
+        <div class="card">
+          <h2>
+            <img src="asset/school.png" alt="Peserta" class="info-logo"> Peserta
+          </h2>
+          <p>Jumlah: <strong>190</strong></p>
+        </div>
+        <div class="card">
+          <h2>
+            <img src="asset/training.png" alt="Kelas" class="info-logo"> Kelas
+          </h2>
+          <p>Jumlah: <strong>6</strong></p>
+        </div>
+      </div>
+      
+
+      <!-- Schedule Chart -->
+      <div class="chart-container">
+        <h2>Jadwal Kelas dan Hari</h2>
+        <canvas id="scheduleChart"></canvas>
+      </div>      
+    </main>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

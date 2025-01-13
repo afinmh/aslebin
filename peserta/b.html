@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Peserta</title>
+  <link rel="stylesheet" href="../css/peserta.css">
+</head>
+<body>
+  <div class="dashboard">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <span class="logo-icon">
+            <img src="../asset/education.png" alt="Logo" class="logo-img">
+          </span>
+          <span class="logo-text">Praktika</span>
+        </div>
+      </div>
+      <ul class="menu">
+        <li><a href="../index.html" class="menu-link">Home</a></li>
+        <li>
+          <a href="#" id="pesertaMenu" class="menu-link">Peserta</a>
+          <ul id="kelasDropdown" class="submenu show">
+            <li><a href="a.html">Kelas A</a></li>
+            <li><a href="b.html"  class="submenu active">Kelas B</a></li>
+            <li><a href="c.html">Kelas C</a></li>
+            <li><a href="d.html">Kelas D</a></li>
+            <li><a href="e.html">Kelas E</a></li>
+            <li><a href="f.html">Kelas F</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" id="jadwalMenu" class="menu-link">Jadwal</a>
+          <ul id="jadwalDropdown" class="submenu">
+            <li><a href="../jadwal/a.html">Praktikum A</a></li>
+            <li><a href="../jadwal/b.html">Praktikum B</a></li>
+            <li><a href="../jadwal/c.html">Praktikum C</a></li>
+            <li><a href="../jadwal/d.html">Praktikum D</a></li>
+            <li><a href="../jadwal/e.html">Praktikum E</a></li>
+            <li><a href="../jadwal/f.html">Praktikum F</a></li>
+          </ul>
+      </ul>
+    </aside>
+
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <h1 class="main-title">Peserta Kelas B</h1>
+
+      <!-- Tabel Peserta -->
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>NIM</th>
+              <th>Mata Kuliah</th>
+              <th>Jam</th>
+              <th>Hari</th>
+              <th>Kelas</th>
+            </tr>
+          </thead>
+          <tbody id="table-body">
+            <!-- Data akan diisi oleh JavaScript -->
+          </tbody>
+        </table>
+        <div class="pagination">
+          <button id="prev-btn" disabled>&lt; Prev</button>
+          <span id="page-info"></span>
+          <button id="next-btn">Next &gt;</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="../js/peserta/b.js"></script>
+</body>
+</html>

@@ -1,0 +1,1717 @@
+[
+  {
+    "NIM":152023010,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023010,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023021,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"13:00 - 15:50",
+    "Disp_Matakuliah":"PROBABILITAS DAN STATISTIKA             ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023030,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023036,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023037,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023044,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023068,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023071,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023079,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023083,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023083,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023083,
+    "Disp_Jam":"14:00 - 15:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023083,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023083,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023083,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023083,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023087,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"15:00 - 16:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"KECERDASAN BUATAN                       ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023088,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"PENGANTAR SAINS KOMPUTER                ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023089,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023091,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023094,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS II                       ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023096,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023098,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023103,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"15:00 - 16:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023109,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023111,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023113,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023114,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"07:00 - 08:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023115,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"07:00 - 08:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023117,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023127,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"11:00 - 12:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"KK"
+  },
+  {
+    "NIM":152023149,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023154,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023154,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023154,
+    "Disp_Jam":"14:00 - 16:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023154,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023154,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"DD"
+  },
+  {
+    "NIM":152023154,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023154,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"15:00 - 16:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023181,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"KAMIS",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"FF"
+  },
+  {
+    "NIM":152023204,
+    "Disp_Jam":"08:00 - 09:50",
+    "Disp_Matakuliah":"AGAMA                                   ",
+    "Disp_Hari":"MINGGU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"PEMROGRAMAN WEB                         ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"10:00 - 12:50",
+    "Disp_Matakuliah":"PEMROGRAMAN DASAR                       ",
+    "Disp_Hari":"SENIN",
+    "Disp_Kelas":"CC"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"09:00 - 10:50",
+    "Disp_Matakuliah":"PEMROGRAMAN BASIS DATA                  ",
+    "Disp_Hari":"SELASA",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"SISTEM OPERASI                          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"10:00 - 11:50",
+    "Disp_Matakuliah":"INTERAKSI MANUSIA DAN KOMPUTER          ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"AA"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"15:00 - 16:50",
+    "Disp_Matakuliah":"BAHASA INGGRIS I                        ",
+    "Disp_Hari":"RABU",
+    "Disp_Kelas":"EE"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"07:00 - 09:50",
+    "Disp_Matakuliah":"REKAYASA PERANGKAT LUNAK                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"BB"
+  },
+  {
+    "NIM":152023206,
+    "Disp_Jam":"13:00 - 14:50",
+    "Disp_Matakuliah":"GRAFIKA KOMPUTER TERAPAN                ",
+    "Disp_Hari":"JUMAT",
+    "Disp_Kelas":"CC"
+  }
+]

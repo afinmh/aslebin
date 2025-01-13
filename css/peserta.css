@@ -1,0 +1,257 @@
+.table-container {
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+  }
+  
+  table thead {
+    background-color: #f4f6f9;
+  }
+  
+  table th, table td {
+    text-align: left;
+    padding: 0.75rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table th {
+    color: #34495E;
+    font-size: 1rem;
+  }
+  
+  table td {
+    color: #666;
+    font-size: 0.9rem;
+  }
+  
+  table tr:hover {
+    background-color: #f9f9f9;
+  }
+
+  /* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f5f6fa;
+  }
+  
+  /* Dashboard Layout */
+  .dashboard {
+    display: flex;
+    height: 100vh;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    width: 260px;
+    background-color: #2C3E50;
+    color: #ecf0f1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar-header {
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #34495E;
+    border-bottom: 1px solid #1ABC9C;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .logo-icon {
+    font-size: 1.8rem;
+  }
+  
+  .logo-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  /* Menu */
+  .menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-link {
+    display: block;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    color: #ecf0f1;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .menu-link:hover,
+  .menu-link.active {
+    background-color: #1ABC9C;
+    color: #ffffff;
+    border-left: 5px solid #ffffff;
+  }
+  
+  /* Main Content */
+  .main-content {
+    flex-grow: 1;
+    padding: 2rem;
+    background-color: #f5f6fa;
+  }
+  
+  .main-title {
+    font-size: 2rem;
+    color: #2C3E50;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Info Cards */
+  .info-cards {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .card {
+    flex: 1;
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #34495E;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  /* Chart Section */
+  .chart-container {
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .chart-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #34495E;
+  }
+  
+  .chart-container canvas {
+    max-height: 340px; /* Tinggi maksimal canvas */
+    max-width: 100%;
+  }
+  
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+  .pagination button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pagination button:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+  }
+  
+  .pagination span {
+    font-size: 1rem;
+    color: #34495e;
+  }
+
+  /* Submenu untuk Peserta */
+.submenu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: none; /* Default disembunyikan */
+  background-color: #34495E; /* Warna latar belakang submenu */
+  border-radius: 0 0 10px 10px; /* Border-radius bawah agar sesuai dengan desain */
+}
+
+.submenu li {
+  margin: 0;
+}
+
+.submenu a {
+  display: block;
+  padding: 1rem 2rem; /* Menambah padding kiri untuk menjorokkan teks ke kanan */
+  text-decoration: none;
+  color: #ecf0f1; /* Warna teks submenu */
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.3s ease-in-out;
+}
+
+.submenu.active,
+.submenu a:hover {
+  background-color: #1ABC9C; /* Warna latar belakang saat hover */
+  color: #ffffff; /* Warna teks saat hover */
+  border-left: 5px solid #ffffff; /* Garis kiri saat hover */
+}
+
+/* Logo Container */
+.logo {
+  display: flex;
+  align-items: center; /* Vertikal tengah */
+  justify-content: center; /* Horizontal tengah */
+  gap: 0.5rem; /* Memberikan jarak antara gambar dan teks */
+}
+
+/* Logo Image */
+.logo-img {
+  width: 2rem; /* Atur ukuran gambar logo sesuai kebutuhan */
+  height: auto; /* Menjaga proporsi gambar */
+}
+
+/* Logo Text */
+.logo-text {
+  font-size: 1.5rem; /* Ukuran font teks logo */
+  font-weight: bold;
+  color: #ffffff; /* Warna teks logo */
+}
+
+.submenu.show {
+  display: block; /* Menampilkan submenu */
+}
+
+  
+  
