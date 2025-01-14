@@ -30,9 +30,9 @@ const scheduleChart = new Chart(ctx, {
     labels: ['Kelas A', 'Kelas B', 'Kelas C', 'Kelas D', 'Kelas E', "Kelas F"], // Nama kelas
     datasets: [
       {
-        label: 'Selasa',
+        label: 'Senin',
         data: [
-          [10, 12.5], // Kelas A (08:00 - 10:30)
+          [13, 15.5], // Kelas A (08:00 - 10:30)
           null,
           null,
           null,
@@ -42,26 +42,38 @@ const scheduleChart = new Chart(ctx, {
         backgroundColor: '#3498db',
       },
       {
-        label: 'Kamis',
+        label: 'Selasa',
         data: [
           null,
-          [13, 15.5], // Kelas B (10:00 - 12:30)
-          [7, 9.5], // Kelas C (08:00 - 10:30)
           null,
           null,
+          [7, 9.5],
+          [7, 9.5],
           null,
         ],
         backgroundColor: '#1abc9c',
       },
       {
-        label: 'Sabtu',
+        label: 'Kamis',
+        data: [
+          null,
+          [10, 12.5],
+          null,
+          null,
+          null,
+          null,
+        ],
+        backgroundColor: '#e74c3c',
+      },
+      {
+        label: 'Rabu',
         data: [
           null,
           null,
           null,
-          [10, 12.5],
           null,
-          [10, 12.5],
+          null,
+          [7, 9.5],
         ],
         backgroundColor: '#e74c3c',
       },
@@ -70,9 +82,9 @@ const scheduleChart = new Chart(ctx, {
         data: [
           null,
           null,
+          [10, 12.5],
           null,
-          null,
-          [10, 12.5], // Kelas E (10:00 - 12:30)
+          null, // Kelas E (10:00 - 12:30)
           null,
         ],
         backgroundColor: '#9b59b6',
@@ -85,8 +97,8 @@ const scheduleChart = new Chart(ctx, {
     scales: {
       x: {
         type: 'linear',
-        min: 7.5, // Awal jam (07:30)
-        max: 18, // Akhir jam (18:00)
+        min: 6, // Awal jam (07:30)
+        max: 16, // Akhir jam (18:00)
         title: {
           display: true,
           text: 'Jam',
